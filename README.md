@@ -245,4 +245,4 @@ This repository serves as the official landing page for Dungeon Clawler. The sof
 **Get the most recent version of Dungeon Clawler today!**
 
 ---
-**Last updated:** 2026-10-16 22:24:57 UTC
+**Last updated:** 2026-10-17 00:57:59 UTC
